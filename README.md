@@ -1,2 +1,2 @@
-# latihancssq
+# latihancss
 membuat css
